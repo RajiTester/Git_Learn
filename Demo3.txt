@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hi demo 3
-=======
-Hi git demo3
->>>>>>> 8c3972c43efeb52e3229a24b2639f79e15cf4e7d
+Hi demo 3 changed
+
